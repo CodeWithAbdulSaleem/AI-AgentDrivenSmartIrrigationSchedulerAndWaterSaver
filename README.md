@@ -65,3 +65,5 @@ See **[WALKTHROUGH.md](WALKTHROUGH.md)** for detailed step-by-step instructions.
 
 🚀 **AI-Powered Smart Irrigation Dashboard (Streamlit):**  
 https://ai-agent-irrigation-system.streamlit.app/
+🚀 **Youtube Explanation:**
+https://youtu.be/T4lzi5SK6AM?si=_P4dDXXvSuPrV9lA
